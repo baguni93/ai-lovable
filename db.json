@@ -1,0 +1,1025 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "date": "2026-01-02",
+      "type": "expense",
+      "category": "쇼핑",
+      "amount": 12000,
+      "method": "계좌이체",
+      "description": "아마존",
+      "memo": ""
+    },
+    {
+      "id": 2,
+      "date": "2026-01-03",
+      "type": "income",
+      "category": "기타수입",
+      "amount": 3000000,
+      "method": "체크카드",
+      "description": "환급",
+      "memo": ""
+    },
+    {
+      "id": 3,
+      "date": "2026-01-03",
+      "type": "expense",
+      "category": "의료",
+      "amount": 80000,
+      "method": "신용카드",
+      "description": "병원",
+      "memo": ""
+    },
+    {
+      "id": 4,
+      "date": "2026-01-03",
+      "type": "expense",
+      "category": "통신",
+      "amount": 25000,
+      "method": "체크카드",
+      "description": "인터넷",
+      "memo": ""
+    },
+    {
+      "id": 5,
+      "date": "2026-01-08",
+      "type": "expense",
+      "category": "식비",
+      "amount": 12000,
+      "method": "현금",
+      "description": "배달의민족",
+      "memo": ""
+    },
+    {
+      "id": 6,
+      "date": "2026-01-11",
+      "type": "income",
+      "category": "보너스",
+      "amount": 2500000,
+      "method": "체크카드",
+      "description": "성과급",
+      "memo": ""
+    },
+    {
+      "id": 7,
+      "date": "2026-01-15",
+      "type": "expense",
+      "category": "교통",
+      "amount": 5000,
+      "method": "현금",
+      "description": "KTX",
+      "memo": ""
+    },
+    {
+      "id": 8,
+      "date": "2026-01-17",
+      "type": "expense",
+      "category": "교육",
+      "amount": 12000,
+      "method": "신용카드",
+      "description": "온라인강의",
+      "memo": ""
+    },
+    {
+      "id": 9,
+      "date": "2026-01-18",
+      "type": "expense",
+      "category": "교육",
+      "amount": 25000,
+      "method": "신용카드",
+      "description": "책",
+      "memo": ""
+    },
+    {
+      "id": 10,
+      "date": "2026-01-19",
+      "type": "income",
+      "category": "기타수입",
+      "amount": 150000,
+      "method": "현금",
+      "description": "중고판매",
+      "memo": ""
+    },
+    {
+      "id": 11,
+      "date": "2026-01-19",
+      "type": "income",
+      "category": "보너스",
+      "amount": 80000,
+      "method": "현금",
+      "description": "성과급",
+      "memo": ""
+    },
+    {
+      "id": 12,
+      "date": "2026-01-20",
+      "type": "expense",
+      "category": "생활",
+      "amount": 45000,
+      "method": "계좌이체",
+      "description": "세탁",
+      "memo": ""
+    },
+    {
+      "id": 13,
+      "date": "2026-01-22",
+      "type": "income",
+      "category": "급여",
+      "amount": 3000000,
+      "method": "신용카드",
+      "description": "월급",
+      "memo": ""
+    },
+    {
+      "id": 14,
+      "date": "2026-01-22",
+      "type": "expense",
+      "category": "통신",
+      "amount": 5000,
+      "method": "현금",
+      "description": "인터넷",
+      "memo": ""
+    },
+    {
+      "id": 15,
+      "date": "2026-01-23",
+      "type": "income",
+      "category": "보너스",
+      "amount": 500000,
+      "method": "현금",
+      "description": "성과급",
+      "memo": ""
+    },
+    {
+      "id": 16,
+      "date": "2026-01-25",
+      "type": "income",
+      "category": "이자",
+      "amount": 80000,
+      "method": "체크카드",
+      "description": "예금이자",
+      "memo": ""
+    },
+    {
+      "id": 17,
+      "date": "2026-01-25",
+      "type": "expense",
+      "category": "쇼핑",
+      "amount": 5000,
+      "method": "계좌이체",
+      "description": "무신사",
+      "memo": ""
+    },
+    {
+      "id": 18,
+      "date": "2026-01-28",
+      "type": "expense",
+      "category": "교통",
+      "amount": 5000,
+      "method": "체크카드",
+      "description": "택시",
+      "memo": ""
+    },
+    {
+      "id": 19,
+      "date": "2026-02-01",
+      "type": "expense",
+      "category": "주거",
+      "amount": 12000,
+      "method": "계좌이체",
+      "description": "전기요금",
+      "memo": ""
+    },
+    {
+      "id": 20,
+      "date": "2026-02-02",
+      "type": "expense",
+      "category": "통신",
+      "amount": 25000,
+      "method": "계좌이체",
+      "description": "인터넷",
+      "memo": ""
+    },
+    {
+      "id": 21,
+      "date": "2026-02-03",
+      "type": "income",
+      "category": "급여",
+      "amount": 2500000,
+      "method": "신용카드",
+      "description": "월급",
+      "memo": ""
+    },
+    {
+      "id": 22,
+      "date": "2026-02-03",
+      "type": "expense",
+      "category": "교통",
+      "amount": 5000,
+      "method": "체크카드",
+      "description": "주유",
+      "memo": ""
+    },
+    {
+      "id": 23,
+      "date": "2026-02-04",
+      "type": "expense",
+      "category": "교육",
+      "amount": 5000,
+      "method": "계좌이체",
+      "description": "온라인강의",
+      "memo": ""
+    },
+    {
+      "id": 24,
+      "date": "2026-02-07",
+      "type": "expense",
+      "category": "의료",
+      "amount": 45000,
+      "method": "현금",
+      "description": "병원",
+      "memo": ""
+    },
+    {
+      "id": 25,
+      "date": "2026-02-07",
+      "type": "expense",
+      "category": "교통",
+      "amount": 12000,
+      "method": "계좌이체",
+      "description": "택시",
+      "memo": ""
+    },
+    {
+      "id": 26,
+      "date": "2026-02-09",
+      "type": "expense",
+      "category": "통신",
+      "amount": 7500,
+      "method": "체크카드",
+      "description": "인터넷",
+      "memo": ""
+    },
+    {
+      "id": 27,
+      "date": "2026-02-09",
+      "type": "expense",
+      "category": "생활",
+      "amount": 80000,
+      "method": "체크카드",
+      "description": "청소용품",
+      "memo": ""
+    },
+    {
+      "id": 28,
+      "date": "2026-02-09",
+      "type": "expense",
+      "category": "문화",
+      "amount": 80000,
+      "method": "체크카드",
+      "description": "책 구매",
+      "memo": ""
+    },
+    {
+      "id": 29,
+      "date": "2026-02-09",
+      "type": "expense",
+      "category": "교통",
+      "amount": 5000,
+      "method": "현금",
+      "description": "KTX",
+      "memo": ""
+    },
+    {
+      "id": 30,
+      "date": "2026-02-09",
+      "type": "income",
+      "category": "용돈",
+      "amount": 500000,
+      "method": "신용카드",
+      "description": "부모님용돈",
+      "memo": ""
+    },
+    {
+      "id": 31,
+      "date": "2026-02-12",
+      "type": "expense",
+      "category": "의료",
+      "amount": 5000,
+      "method": "체크카드",
+      "description": "약국",
+      "memo": ""
+    },
+    {
+      "id": 32,
+      "date": "2026-02-16",
+      "type": "expense",
+      "category": "문화",
+      "amount": 12000,
+      "method": "신용카드",
+      "description": "책 구매",
+      "memo": ""
+    },
+    {
+      "id": 33,
+      "date": "2026-02-19",
+      "type": "income",
+      "category": "기타수입",
+      "amount": 80000,
+      "method": "현금",
+      "description": "중고판매",
+      "memo": ""
+    },
+    {
+      "id": 34,
+      "date": "2026-02-19",
+      "type": "income",
+      "category": "용돈",
+      "amount": 500000,
+      "method": "현금",
+      "description": "부모님용돈",
+      "memo": ""
+    },
+    {
+      "id": 35,
+      "date": "2026-02-20",
+      "type": "expense",
+      "category": "교육",
+      "amount": 25000,
+      "method": "계좌이체",
+      "description": "책",
+      "memo": ""
+    },
+    {
+      "id": 36,
+      "date": "2026-02-20",
+      "type": "expense",
+      "category": "문화",
+      "amount": 5000,
+      "method": "체크카드",
+      "description": "책 구매",
+      "memo": ""
+    },
+    {
+      "id": 37,
+      "date": "2026-02-27",
+      "type": "expense",
+      "category": "식비",
+      "amount": 3000,
+      "method": "신용카드",
+      "description": "마트장보기",
+      "memo": ""
+    },
+    {
+      "id": 38,
+      "date": "2026-02-27",
+      "type": "expense",
+      "category": "주거",
+      "amount": 120000,
+      "method": "신용카드",
+      "description": "전기요금",
+      "memo": ""
+    },
+    {
+      "id": 39,
+      "date": "2026-02-27",
+      "type": "expense",
+      "category": "교육",
+      "amount": 120000,
+      "method": "체크카드",
+      "description": "책",
+      "memo": ""
+    },
+    {
+      "id": 40,
+      "date": "2026-03-03",
+      "type": "expense",
+      "category": "기타지출",
+      "amount": 12000,
+      "method": "신용카드",
+      "description": "선물",
+      "memo": ""
+    },
+    {
+      "id": 41,
+      "date": "2026-03-03",
+      "type": "expense",
+      "category": "교육",
+      "amount": 45000,
+      "method": "현금",
+      "description": "온라인강의",
+      "memo": ""
+    },
+    {
+      "id": 42,
+      "date": "2026-03-04",
+      "type": "expense",
+      "category": "의료",
+      "amount": 25000,
+      "method": "계좌이체",
+      "description": "병원",
+      "memo": ""
+    },
+    {
+      "id": 43,
+      "date": "2026-03-06",
+      "type": "income",
+      "category": "보너스",
+      "amount": 150000,
+      "method": "계좌이체",
+      "description": "성과급",
+      "memo": ""
+    },
+    {
+      "id": 44,
+      "date": "2026-03-06",
+      "type": "expense",
+      "category": "주거",
+      "amount": 5000,
+      "method": "계좌이체",
+      "description": "월세",
+      "memo": ""
+    },
+    {
+      "id": 45,
+      "date": "2026-03-07",
+      "type": "expense",
+      "category": "의료",
+      "amount": 80000,
+      "method": "신용카드",
+      "description": "약국",
+      "memo": ""
+    },
+    {
+      "id": 46,
+      "date": "2026-03-08",
+      "type": "expense",
+      "category": "식비",
+      "amount": 12000,
+      "method": "체크카드",
+      "description": "편의점",
+      "memo": ""
+    },
+    {
+      "id": 47,
+      "date": "2026-03-08",
+      "type": "income",
+      "category": "용돈",
+      "amount": 2500000,
+      "method": "체크카드",
+      "description": "부모님용돈",
+      "memo": ""
+    },
+    {
+      "id": 48,
+      "date": "2026-03-11",
+      "type": "expense",
+      "category": "기타지출",
+      "amount": 12000,
+      "method": "현금",
+      "description": "경조사비",
+      "memo": ""
+    },
+    {
+      "id": 49,
+      "date": "2026-03-12",
+      "type": "expense",
+      "category": "교통",
+      "amount": 80000,
+      "method": "신용카드",
+      "description": "지하철",
+      "memo": ""
+    },
+    {
+      "id": 50,
+      "date": "2026-03-12",
+      "type": "expense",
+      "category": "생활",
+      "amount": 120000,
+      "method": "신용카드",
+      "description": "미용실",
+      "memo": ""
+    },
+    {
+      "id": 51,
+      "date": "2026-03-13",
+      "type": "expense",
+      "category": "주거",
+      "amount": 45000,
+      "method": "계좌이체",
+      "description": "가스요금",
+      "memo": ""
+    },
+    {
+      "id": 52,
+      "date": "2026-03-14",
+      "type": "expense",
+      "category": "문화",
+      "amount": 5000,
+      "method": "계좌이체",
+      "description": "넷플릭스",
+      "memo": ""
+    },
+    {
+      "id": 53,
+      "date": "2026-03-18",
+      "type": "expense",
+      "category": "생활",
+      "amount": 3000,
+      "method": "현금",
+      "description": "청소용품",
+      "memo": ""
+    },
+    {
+      "id": 54,
+      "date": "2026-03-18",
+      "type": "expense",
+      "category": "기타지출",
+      "amount": 3000,
+      "method": "체크카드",
+      "description": "선물",
+      "memo": ""
+    },
+    {
+      "id": 55,
+      "date": "2026-03-19",
+      "type": "income",
+      "category": "급여",
+      "amount": 150000,
+      "method": "계좌이체",
+      "description": "월급",
+      "memo": ""
+    },
+    {
+      "id": 56,
+      "date": "2026-03-20",
+      "type": "expense",
+      "category": "문화",
+      "amount": 25000,
+      "method": "현금",
+      "description": "공연",
+      "memo": ""
+    },
+    {
+      "id": 57,
+      "date": "2026-03-20",
+      "type": "income",
+      "category": "기타수입",
+      "amount": 80000,
+      "method": "계좌이체",
+      "description": "환급",
+      "memo": ""
+    },
+    {
+      "id": 58,
+      "date": "2026-03-21",
+      "type": "income",
+      "category": "이자",
+      "amount": 80000,
+      "method": "체크카드",
+      "description": "예금이자",
+      "memo": ""
+    },
+    {
+      "id": 59,
+      "date": "2026-03-23",
+      "type": "expense",
+      "category": "주거",
+      "amount": 5000,
+      "method": "체크카드",
+      "description": "관리비",
+      "memo": ""
+    },
+    {
+      "id": 60,
+      "date": "2026-03-25",
+      "type": "expense",
+      "category": "교통",
+      "amount": 80000,
+      "method": "체크카드",
+      "description": "택시",
+      "memo": ""
+    },
+    {
+      "id": 61,
+      "date": "2026-03-25",
+      "type": "income",
+      "category": "용돈",
+      "amount": 150000,
+      "method": "계좌이체",
+      "description": "부모님용돈",
+      "memo": ""
+    },
+    {
+      "id": 62,
+      "date": "2026-03-25",
+      "type": "expense",
+      "category": "문화",
+      "amount": 80000,
+      "method": "신용카드",
+      "description": "공연",
+      "memo": ""
+    },
+    {
+      "id": 63,
+      "date": "2026-03-26",
+      "type": "expense",
+      "category": "기타지출",
+      "amount": 3000,
+      "method": "체크카드",
+      "description": "기부",
+      "memo": ""
+    },
+    {
+      "id": 64,
+      "date": "2026-03-26",
+      "type": "income",
+      "category": "용돈",
+      "amount": 2500000,
+      "method": "신용카드",
+      "description": "부모님용돈",
+      "memo": ""
+    },
+    {
+      "id": 65,
+      "date": "2026-04-01",
+      "type": "expense",
+      "category": "쇼핑",
+      "amount": 7500,
+      "method": "신용카드",
+      "description": "유니클로",
+      "memo": ""
+    },
+    {
+      "id": 66,
+      "date": "2026-04-01",
+      "type": "expense",
+      "category": "교통",
+      "amount": 3000,
+      "method": "신용카드",
+      "description": "택시",
+      "memo": ""
+    },
+    {
+      "id": 67,
+      "date": "2026-04-02",
+      "type": "expense",
+      "category": "주거",
+      "amount": 7500,
+      "method": "계좌이체",
+      "description": "월세",
+      "memo": ""
+    },
+    {
+      "id": 68,
+      "date": "2026-04-02",
+      "type": "income",
+      "category": "기타수입",
+      "amount": 80000,
+      "method": "체크카드",
+      "description": "중고판매",
+      "memo": ""
+    },
+    {
+      "id": 69,
+      "date": "2026-04-06",
+      "type": "expense",
+      "category": "생활",
+      "amount": 120000,
+      "method": "계좌이체",
+      "description": "미용실",
+      "memo": ""
+    },
+    {
+      "id": 70,
+      "date": "2026-04-07",
+      "type": "expense",
+      "category": "의료",
+      "amount": 7500,
+      "method": "계좌이체",
+      "description": "병원",
+      "memo": ""
+    },
+    {
+      "id": 71,
+      "date": "2026-04-08",
+      "type": "expense",
+      "category": "의료",
+      "amount": 5000,
+      "method": "계좌이체",
+      "description": "건강검진",
+      "memo": ""
+    },
+    {
+      "id": 72,
+      "date": "2026-04-09",
+      "type": "expense",
+      "category": "교통",
+      "amount": 120000,
+      "method": "신용카드",
+      "description": "택시",
+      "memo": ""
+    },
+    {
+      "id": 73,
+      "date": "2026-04-10",
+      "type": "expense",
+      "category": "의료",
+      "amount": 80000,
+      "method": "계좌이체",
+      "description": "병원",
+      "memo": ""
+    },
+    {
+      "id": 74,
+      "date": "2026-04-12",
+      "type": "expense",
+      "category": "교통",
+      "amount": 120000,
+      "method": "체크카드",
+      "description": "주유",
+      "memo": ""
+    },
+    {
+      "id": 75,
+      "date": "2026-04-14",
+      "type": "expense",
+      "category": "교통",
+      "amount": 12000,
+      "method": "계좌이체",
+      "description": "주유",
+      "memo": ""
+    },
+    {
+      "id": 76,
+      "date": "2026-04-16",
+      "type": "expense",
+      "category": "의료",
+      "amount": 3000,
+      "method": "계좌이체",
+      "description": "약국",
+      "memo": ""
+    },
+    {
+      "id": 77,
+      "date": "2026-04-17",
+      "type": "income",
+      "category": "기타수입",
+      "amount": 80000,
+      "method": "체크카드",
+      "description": "중고판매",
+      "memo": ""
+    },
+    {
+      "id": 78,
+      "date": "2026-04-18",
+      "type": "expense",
+      "category": "교육",
+      "amount": 12000,
+      "method": "계좌이체",
+      "description": "책",
+      "memo": ""
+    },
+    {
+      "id": 79,
+      "date": "2026-04-19",
+      "type": "expense",
+      "category": "주거",
+      "amount": 80000,
+      "method": "신용카드",
+      "description": "월세",
+      "memo": ""
+    },
+    {
+      "id": 80,
+      "date": "2026-04-22",
+      "type": "income",
+      "category": "보너스",
+      "amount": 2500000,
+      "method": "체크카드",
+      "description": "성과급",
+      "memo": ""
+    },
+    {
+      "id": 81,
+      "date": "2026-04-23",
+      "type": "expense",
+      "category": "문화",
+      "amount": 25000,
+      "method": "체크카드",
+      "description": "넷플릭스",
+      "memo": ""
+    },
+    {
+      "id": 82,
+      "date": "2026-04-23",
+      "type": "income",
+      "category": "보너스",
+      "amount": 3000000,
+      "method": "체크카드",
+      "description": "성과급",
+      "memo": ""
+    },
+    {
+      "id": 83,
+      "date": "2026-05-02",
+      "type": "income",
+      "category": "보너스",
+      "amount": 500000,
+      "method": "체크카드",
+      "description": "성과급",
+      "memo": ""
+    },
+    {
+      "id": 84,
+      "date": "2026-05-03",
+      "type": "expense",
+      "category": "교육",
+      "amount": 80000,
+      "method": "계좌이체",
+      "description": "책",
+      "memo": ""
+    },
+    {
+      "id": 85,
+      "date": "2026-05-07",
+      "type": "expense",
+      "category": "생활",
+      "amount": 7500,
+      "method": "신용카드",
+      "description": "세탁",
+      "memo": ""
+    },
+    {
+      "id": 86,
+      "date": "2026-05-07",
+      "type": "income",
+      "category": "용돈",
+      "amount": 500000,
+      "method": "체크카드",
+      "description": "부모님용돈",
+      "memo": ""
+    },
+    {
+      "id": 87,
+      "date": "2026-05-11",
+      "type": "income",
+      "category": "용돈",
+      "amount": 2500000,
+      "method": "신용카드",
+      "description": "부모님용돈",
+      "memo": ""
+    },
+    {
+      "id": 88,
+      "date": "2026-05-12",
+      "type": "expense",
+      "category": "의료",
+      "amount": 120000,
+      "method": "신용카드",
+      "description": "약국",
+      "memo": ""
+    },
+    {
+      "id": 89,
+      "date": "2026-05-13",
+      "type": "expense",
+      "category": "교육",
+      "amount": 45000,
+      "method": "체크카드",
+      "description": "학원비",
+      "memo": ""
+    },
+    {
+      "id": 90,
+      "date": "2026-05-15",
+      "type": "expense",
+      "category": "문화",
+      "amount": 80000,
+      "method": "현금",
+      "description": "넷플릭스",
+      "memo": ""
+    },
+    {
+      "id": 91,
+      "date": "2026-05-16",
+      "type": "expense",
+      "category": "주거",
+      "amount": 7500,
+      "method": "현금",
+      "description": "전기요금",
+      "memo": ""
+    },
+    {
+      "id": 92,
+      "date": "2026-05-16",
+      "type": "expense",
+      "category": "의료",
+      "amount": 12000,
+      "method": "신용카드",
+      "description": "약국",
+      "memo": ""
+    },
+    {
+      "id": 93,
+      "date": "2026-05-17",
+      "type": "expense",
+      "category": "기타지출",
+      "amount": 45000,
+      "method": "신용카드",
+      "description": "선물",
+      "memo": ""
+    },
+    {
+      "id": 94,
+      "date": "2026-05-18",
+      "type": "expense",
+      "category": "통신",
+      "amount": 45000,
+      "method": "계좌이체",
+      "description": "인터넷",
+      "memo": ""
+    },
+    {
+      "id": 95,
+      "date": "2026-05-19",
+      "type": "expense",
+      "category": "교육",
+      "amount": 3000,
+      "method": "현금",
+      "description": "책",
+      "memo": ""
+    },
+    {
+      "id": 96,
+      "date": "2026-05-20",
+      "type": "income",
+      "category": "보너스",
+      "amount": 2500000,
+      "method": "체크카드",
+      "description": "성과급",
+      "memo": ""
+    },
+    {
+      "id": 97,
+      "date": "2026-05-23",
+      "type": "expense",
+      "category": "주거",
+      "amount": 45000,
+      "method": "체크카드",
+      "description": "가스요금",
+      "memo": ""
+    },
+    {
+      "id": 98,
+      "date": "2026-05-23",
+      "type": "expense",
+      "category": "통신",
+      "amount": 25000,
+      "method": "현금",
+      "description": "인터넷",
+      "memo": ""
+    },
+    {
+      "id": 99,
+      "date": "2026-05-23",
+      "type": "expense",
+      "category": "교육",
+      "amount": 3000,
+      "method": "계좌이체",
+      "description": "온라인강의",
+      "memo": ""
+    },
+    {
+      "id": 100,
+      "date": "2026-05-25",
+      "type": "expense",
+      "category": "의료",
+      "amount": 7500,
+      "method": "현금",
+      "description": "건강검진",
+      "memo": ""
+    }
+  ],
+  "categories": {
+    "income": [
+      "급여",
+      "보너스",
+      "용돈",
+      "이자",
+      "기타수입"
+    ],
+    "expense": [
+      "식비",
+      "교통",
+      "쇼핑",
+      "주거",
+      "의료",
+      "문화",
+      "교육",
+      "통신",
+      "생활",
+      "기타지출"
+    ]
+  }
+}
