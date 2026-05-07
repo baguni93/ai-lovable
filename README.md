@@ -6,7 +6,7 @@ Vue3 Composition API + Pinia + Bootstrap5 + Google Charts + Font Awesome + Axios
 
 ```bash
 npm install
-npm start            # json-server(3001) + vite(5173) 동시 실행
+npm start            # json-server(3001) + vite(5173) 동시 실행 *오류발생 시 환경변수 Path 체크
 ```
 
 또는 분리 실행:
