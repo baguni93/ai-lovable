@@ -33,6 +33,29 @@ src/
 db.json                        # 샘플 거래 100건
 ```
 
+## 🧩 컴포넌트 구성도
+
+```mermaid
+flowchart TD
+  main_js[src/main.js] --> app_vue[src/App.vue]
+  app_vue --> router_view[<RouterView/>]
+  router_view --> dash[Dashboard.vue (/) ]
+  router_view --> txs[Transactions.vue (/transactions)]
+  router_view --> add[AddTransaction.vue (/add)]
+
+  dash --> store[transaction store (src/stores/transaction.js)]
+  txs --> store
+  add --> store
+
+  dash --> statcard[StatCard.vue (src/components/StatCard.vue)]
+  dash --> charts[Google Charts (vue-google-charts: GChart)]
+
+  store --> api[src/stores/api.js (axios)]
+  api --> jsonserver[json-server (db.json, http://localhost:3001)]
+```
+
+핵심 흐름은 `App.vue`의 라우트에 따라 페이지(`views/*`)가 바뀌고, 각 페이지는 `transaction store`를 통해 `json-server`의 데이터를 가져오거나(조회) 추가/삭제합니다.
+
 ## 💡 기능
 - 📈 대시보드: 총수입/총지출/잔액/건수 + 월별 막대그래프 + 카테고리 도넛 + 누적잔액 라인
 - 📋 거래내역: 검색, 수입/지출 필터, 삭제
